@@ -1,0 +1,17 @@
+version: '2'
+services:
+  insights:
+    image: insights:0.1.0
+    build: .
+    links:
+      - redis
+    environment:
+      NODE_ENV: production
+      FOR: wd
+      REDIS_HOST: redis
+    ports:
+      - 8080:8080
+  redis:
+    image: redis
+    # ports:
+    #   - 6379:6379

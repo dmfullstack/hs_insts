@@ -1,0 +1,20 @@
+[
+	{	
+		"id" : "1",
+		"Day" : "04 May 2017",
+		"StartTime" : "8:40 AM",
+		"EndTime" : "7:00 PM"
+	},
+	{
+		"id" : "2",
+		"Day" : "03 May 2017",
+		"StartTime" : "9:03 AM",
+		"EndTime" : "8:27 PM"
+	},
+	{
+		"id" : "3",
+		"Day" : "02 May 2017",
+		"StartTime" : "10:07 AM",
+		"EndTime" : "9:54 PM"
+	}
+]

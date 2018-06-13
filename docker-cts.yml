@@ -1,0 +1,17 @@
+version: '2'
+services:
+  insights-cts:
+    image: insights:0.1.0
+    build: .
+    links:
+      - redis-cts
+    environment:
+      NODE_ENV: production
+      FOR: cts
+      REDIS_HOST: redis-cts
+    ports:
+      - 8083:8080
+  redis-cts:
+    image: redis
+    # ports:
+    #   - 6379:6379

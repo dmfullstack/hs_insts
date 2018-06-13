@@ -1,0 +1,20 @@
+[
+	{	
+		"id" : "1",
+		"CommitId" : "87sdfsdf",
+		"Functionality" : "1",
+		"Quality" : "Same"
+	},
+	{
+		"id" : "2",
+		"CommitId" : "43ervdsfwr",
+		"Functionality" : "1",
+		"Quality" : "Same"
+	},
+	{
+		"id" : "3",
+		"CommitId" : "90sdfsdf",
+		"Functionality" : "2",
+		"Quality" : "Improved"
+	}
+]

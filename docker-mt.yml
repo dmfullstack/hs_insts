@@ -1,0 +1,17 @@
+version: '2'
+services:
+  insights-mt:
+    image: insights:0.1.0
+    build: .
+    links:
+      - redis-mt
+    environment:
+      NODE_ENV: production
+      FOR: mt
+      REDIS_HOST: redis-mt
+    ports:
+      - 8082:8080
+  redis-mt:
+    image: redis
+    # ports:
+    #   - 6379:6379

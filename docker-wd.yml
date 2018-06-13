@@ -1,0 +1,20 @@
+version: '2'
+services:
+  insights-wd:
+    image: insights:0.1.0
+    build: .
+    links:
+      - redis-wd
+    environment:
+      NODE_ENV: production
+      FOR: wd
+      REDIS_HOST: redis-wd
+    ports:
+      - 8081:8080
+  redis-wd:
+    image: redis
+    # ports:
+    #   - 6379:6379
+
+ 
+

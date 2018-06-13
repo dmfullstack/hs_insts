@@ -1,0 +1,301 @@
+{
+    "query": {
+        "ts": "2017-05-05T00:00:00.000Z",
+        "tsQ": "after",
+        "solution": "ssh://git@gitlab-dev.stackroute.in:2222/assignments/chicago_crime_data_V1.git",
+        "users": [
+            "rajiff"
+        ]
+    },
+    "page": "1",
+    "count": 3,
+    "total": 3,
+    "asOn": "2017-05-09T05:52:39.373Z",
+    "evaluations": [
+        {
+            "statusUpdateOn": "2017-05-06T11:37:17.027Z",
+            "repoReftype": "branch",
+            "repoRef": "master",
+            "repoUrl": "ssh://git@gitlab-dev.stackroute.in:2222/assignments/chicago_crime_data_V1.git",
+            "username": "rajiff",
+            "evalScores": {
+                "sections": [
+                    {
+                        "name": "cadetTests",
+                        "status": "Failed",
+                        "total": 8,
+                        "passes": 7,
+                        "failed": 1,
+                        "score": 87
+                    },
+                    {
+                        "name": "commanderTests",
+                        "status": "Failed",
+                        "total": 8,
+                        "passes": 7,
+                        "failed": 1,
+                        "score": 87
+                    },
+                    {
+                        "name": "eslint",
+                        "status": "Failed",
+                        "total": 11,
+                        "passes": 0,
+                        "failed": 11,
+                        "score": 0
+                    },
+                    {
+                        "name": "htmlhint",
+                        "status": "Failed",
+                        "total": 3,
+                        "passes": 0,
+                        "failed": 3,
+                        "score": 0
+                    },
+                    {
+                        "name": "smells",
+                        "status": "Failed",
+                        "total": 11,
+                        "passes": 0,
+                        "failed": 11,
+                        "score": 0
+                    }
+                ],
+                "finalScore": 34.8
+            },
+            "payload": {
+                "solutionRepoUrl": "ssh://git@gitlab-dev.stackroute.in:2222/assignments/chicago_crime_data_V1.git"
+            },
+            "status": "EvalCompleted",
+            "submittedOn": "2017-05-06T11:35:45.768Z"
+        },
+        {
+            "statusUpdateOn": "2017-05-06T08:55:17.643Z",
+            "repoReftype": "branch",
+            "repoRef": "master",
+            "repoUrl": "ssh://git@gitlab-dev.stackroute.in:2222/assignments/chicago_crime_data_V1.git",
+            "username": "rajiff",
+            "evalScores": {
+                "sections": [
+                    {
+                        "name": "cadetTests",
+                        "status": "Failed",
+                        "total": 8,
+                        "passes": 7,
+                        "failed": 1,
+                        "score": 87
+                    },
+                    {
+                        "name": "commanderTests",
+                        "status": "Failed",
+                        "total": 8,
+                        "passes": 7,
+                        "failed": 1,
+                        "score": 87
+                    },
+                    {
+                        "name": "eslint",
+                        "status": "Failed",
+                        "total": 11,
+                        "passes": 0,
+                        "failed": 11,
+                        "score": 0
+                    },
+                    {
+                        "name": "htmlhint",
+                        "status": "Failed",
+                        "total": 3,
+                        "passes": 0,
+                        "failed": 3,
+                        "score": 0
+                    },
+                    {
+                        "name": "smells",
+                        "status": "Failed",
+                        "total": 11,
+                        "passes": 0,
+                        "failed": 11,
+                        "score": 0
+                    }
+                ],
+                "finalScore": 34.8
+            },
+            "payload": {
+                "solutionRepoUrl": "ssh://git@gitlab-dev.stackroute.in:2222/assignments/chicago_crime_data_V1.git"
+            },
+            "status": "EvalCompleted",
+            "submittedOn": "2017-05-06T08:53:57.359Z"
+        },
+        {
+            "statusUpdateOn": "2017-05-06T07:34:07.524Z",
+            "repoReftype": "branch",
+            "repoRef": "master",
+            "repoUrl": "ssh://git@gitlab-dev.stackroute.in:2222/assignments/chicago_crime_data_V1.git",
+            "username": "rajiff",
+            "evalScores": {
+                "sections": [
+                    {
+                        "name": "cadetTests",
+                        "status": "Failed",
+                        "total": 8,
+                        "passes": 7,
+                        "failed": 1,
+                        "score": 87
+                    },
+                    {
+                        "name": "commanderTests",
+                        "status": "Failed",
+                        "total": 8,
+                        "passes": 7,
+                        "failed": 1,
+                        "score": 87
+                    },
+                    {
+                        "name": "eslint",
+                        "status": "Failed",
+                        "total": 11,
+                        "passes": 0,
+                        "failed": 11,
+                        "score": 0
+                    },
+                    {
+                        "name": "htmlhint",
+                        "status": "Failed",
+                        "total": 3,
+                        "passes": 0,
+                        "failed": 3,
+                        "score": 0
+                    },
+                    {
+                        "name": "smells",
+                        "status": "Failed",
+                        "total": 11,
+                        "passes": 0,
+                        "failed": 11,
+                        "score": 0
+                    }
+                ],
+                "finalScore": 34.8
+            },
+            "payload": {
+                "solutionRepoUrl": "ssh://git@gitlab-dev.stackroute.in:2222/assignments/chicago_crime_data_V1.git"
+            },
+            "status": "EvalCompleted",
+            "submittedOn": "2017-05-06T07:32:20.298Z"
+        },
+        {
+            "statusUpdateOn": "2017-05-05T11:37:17.027Z",
+            "repoReftype": "branch",
+            "repoRef": "master",
+            "repoUrl": "ssh://git@gitlab-dev.stackroute.in:2222/assignments/chicago_crime_data_V1.git",
+            "username": "rajiff",
+            "evalScores": {
+                "sections": [
+                    {
+                        "name": "cadetTests",
+                        "status": "Failed",
+                        "total": 8,
+                        "passes": 7,
+                        "failed": 1,
+                        "score": 87
+                    },
+                    {
+                        "name": "commanderTests",
+                        "status": "Failed",
+                        "total": 10,
+                        "passes": 7,
+                        "failed": 3,
+                        "score": 87
+                    },
+                    {
+                        "name": "eslint",
+                        "status": "Failed",
+                        "total": 11,
+                        "passes": 0,
+                        "failed": 11,
+                        "score": 0
+                    },
+                    {
+                        "name": "htmlhint",
+                        "status": "Failed",
+                        "total": 3,
+                        "passes": 0,
+                        "failed": 3,
+                        "score": 0
+                    },
+                    {
+                        "name": "smells",
+                        "status": "Failed",
+                        "total": 11,
+                        "passes": 0,
+                        "failed": 11,
+                        "score": 0
+                    }
+                ],
+                "finalScore": 34.8
+            },
+            "payload": {
+                "solutionRepoUrl": "ssh://git@gitlab-dev.stackroute.in:2222/assignments/chicago_crime_data_V1.git"
+            },
+            "status": "EvalCompleted",
+            "submittedOn": "2017-05-05T11:35:45.768Z"
+        },
+        {
+            "statusUpdateOn": "2017-05-05T07:34:07.524Z",
+            "repoReftype": "branch",
+            "repoRef": "master",
+            "repoUrl": "ssh://git@gitlab-dev.stackroute.in:2222/assignments/chicago_crime_data_V1.git",
+            "username": "rajiff",
+            "evalScores": {
+                "sections": [
+                    {
+                        "name": "cadetTests",
+                        "status": "Failed",
+                        "total": 8,
+                        "passes": 7,
+                        "failed": 1,
+                        "score": 87
+                    },
+                    {
+                        "name": "commanderTests",
+                        "status": "Failed",
+                        "total": 9,
+                        "passes": 6,
+                        "failed": 3,
+                        "score": 87
+                    },
+                    {
+                        "name": "eslint",
+                        "status": "Failed",
+                        "total": 11,
+                        "passes": 0,
+                        "failed": 11,
+                        "score": 0
+                    },
+                    {
+                        "name": "htmlhint",
+                        "status": "Failed",
+                        "total": 3,
+                        "passes": 0,
+                        "failed": 3,
+                        "score": 0
+                    },
+                    {
+                        "name": "smells",
+                        "status": "Failed",
+                        "total": 11,
+                        "passes": 0,
+                        "failed": 11,
+                        "score": 0
+                    }
+                ],
+                "finalScore": 34.8
+            },
+            "payload": {
+                "solutionRepoUrl": "ssh://git@gitlab-dev.stackroute.in:2222/assignments/chicago_crime_data_V1.git"
+            },
+            "status": "EvalCompleted",
+            "submittedOn": "2017-05-05T07:32:20.298Z"
+        }
+    ]
+}
